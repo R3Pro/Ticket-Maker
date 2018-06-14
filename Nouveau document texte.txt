@@ -1,0 +1,61 @@
+Welcome in the new update of 
+        R3 Pro
+
+This update applies to Samsung devices
+in the new interface 
+
+        R3 Sam
+
+
+
+
+The New in this interface
+A new service has been added under the name 
+        DRTime
+short name for  Download Real Time
+in its first release V1.0
+
+
+the role of this property supports hardware and versions at the time that they are requested
+mean if a device is not already supported or a flash version is not supported 
+this feature searches for the correct version and prepares it in a standard time 
+about 1 minute to 5 minutes and the phone will be supported for other users at the same time
+This service is part of the iMoman project we talked about earlier
+ We are in the process of developing this project
+Many new devices have been supported as well as the style delete feature (Pattern Lock)
+And adding another way to work you can choose between old and new 
+and correct most of the errors reported and not reported
+such as a device recognition error after entering the program's dowload mode
+in addition, the Samsung Flash is added to all versions and countries
+Note: internet download manager (IDM) must be installed to show Support tab
+
+
+
+And the properties that were added as follows
+(List of supported devices below)
+
+Unlock
+Reset Frp UFS
+Reset Frp2
+Write IMEI
+Firmware My Phone
+My Firmware UART
+Read Info UART
+Enable Diag
+
+
+List of supported devices in Unlock
+List of devices supported in Reset Frp UFS
+List of devices supported in Reset Frp2
+
+Download Link Now
+You can download the update from Shell
+Or this link
+http://www.mediafire.com/file/18gqp8i5dl2ys59/Samsung_R3_Pro_Setup.rar/file
+
+Note: We need more support by agents in all countries who are interested in communicating with us via our
+ 
+Facebook page
+https://www.facebook.com/R3ToolsPro/
+R3 Pro Team
+http://www.r3-tools.com/
